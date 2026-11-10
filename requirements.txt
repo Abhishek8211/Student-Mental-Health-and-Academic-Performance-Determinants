@@ -1,0 +1,10 @@
+# Versions below are the exact versions this notebook was executed and verified with.
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+scipy==1.18.1
+# To run the notebook:
+notebook
+ipykernel
